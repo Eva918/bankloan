@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
@@ -20,8 +20,8 @@ export default function Home() {
         <div className="w-full flex justify-center sm:justify-start">
           <iframe
             title="Financial Dashboard"
-            width="700"
-            height="450"
+            width="900"
+            height="600"
             src="https://app.powerbi.com/view?r=eyJrIjoiZmQwZDdjZGQtZjg1NS00ZWMzLWE4YmQtZDUwNTFkZjYzNDhhIiwidCI6ImJmMzdmMzE1LWJhYzItNDRhOC1hZTZjLTJmMjEzNTFkMjY0YyIsImMiOjEwfQ%3D%3D"
             frameBorder="0"
             allowFullScreen={true}
