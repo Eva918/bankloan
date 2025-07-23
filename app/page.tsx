@@ -22,7 +22,7 @@ export default function Home() {
             title="Financial Dashboard"
             width="900"
             height="600"
-            src="https://app.powerbi.com/view?r=eyJrIjoiZmQwZDdjZGQtZjg1NS00ZWMzLWE4YmQtZDUwNTFkZjYzNDhhIiwidCI6ImJmMzdmMzE1LWJhYzItNDRhOC1hZTZjLTJmMjEzNTFkMjY0YyIsImMiOjEwfQ%3D%3D"
+            src="https://app.powerbi.com/view?r=eyJrIjoiYjNkYjMyNTEtM2FjMi00NmY5LThkZWEtOGIxMWM2YzdjMWRjIiwidCI6ImJmMzdmMzE1LWJhYzItNDRhOC1hZTZjLTJmMjEzNTFkMjY0YyIsImMiOjEwfQ%3D%3D"
             frameBorder="0"
             allowFullScreen={true}
           ></iframe>
